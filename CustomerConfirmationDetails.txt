@@ -1,0 +1,14 @@
+First Name: FE
+Middle Name: FE
+Last Name: FE
+Address: FEAFEA
+Phone Number: 123-4567-8911
+Flight Type: DOMESTIC
+Flight Class: BUSINESS
+Local: SG
+destination: UK
+Time: 14:00
+Date: 01/01/2021
+
+Payment method: Paypal
+Email: EFA

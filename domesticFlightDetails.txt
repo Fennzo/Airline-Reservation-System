@@ -1,0 +1,12 @@
+Functionality
+1) Allow user to book with the following information
+	1.1) First name, middle name ( optional ), last name
+	1.2) Salutation
+	1.3) phone number
+	1.4) Address
+	1.5) passport number
+	1.6) Date, time of the flight
+	1.7) Payment - credit card or paypal
+2) Produces a confirmation of the details entered and generates ticket confirmation code, flight number, seat number,
+3) Saves the details in a txt
+3) Allow user to search from country, from country, to country afterwards it displays the flight no, flight name, depature time, depature date, arrival time, arrival date
